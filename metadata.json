@@ -1,0 +1,12 @@
+{
+  "name": "Gemini Live on PC",
+  "description": "Interactive Gemini Live real-time voice, vision, and desktop workstation guide.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
